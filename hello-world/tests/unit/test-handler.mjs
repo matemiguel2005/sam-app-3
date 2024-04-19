@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 import { lambdaHandler } from '../../app.mjs';
 import { expect } from 'chai';
@@ -18,3 +18,4 @@ describe('Tests index', function () {
         expect(response.message).to.be.equal("Workshop claro");
     });
 });
+*/

@@ -12,14 +12,14 @@
  */
 
 export const lambdaHandler = async (event, context) => {
-  throw new Error("This will cause a deployment rollback")
-    /*const response = {
+  //throw new Error("This will cause a deployment rollback")
+    const response = {
       statusCode: 200,
       body: JSON.stringify({
         message: 'Workshop claro',
       })
     };
 
-    return response;*/
+    return response;
   };
   
